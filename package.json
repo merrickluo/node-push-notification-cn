@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "A.I.",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jpush-sdk": "^3.4.1"
+  }
 }
