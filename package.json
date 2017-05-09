@@ -5,6 +5,7 @@
   "author": "A.I.",
   "license": "MIT",
   "dependencies": {
+    "apn": "^2.1.4",
     "jpush-sdk": "^3.4.1"
   },
   "devDependencies": {
